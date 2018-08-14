@@ -1,0 +1,19 @@
+1.) tells who we are 
+git config --global user.name "Sam Smith"
+git config --global user.email sam@example.com
+
+2.)Create a new local repository
+git init
+
+3.)add file
+git add-A
+
+4.)commit
+git commit -m "Commit message"
+
+5.)status-List the files you've changed and those you still need to add or commit
+git status
+
+6.)mark the changed file:
+git add <filename>
+
